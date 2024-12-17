@@ -218,7 +218,7 @@ footer ul li a:hover {
 }
 
 #instagram {
-    background-image: url('../images/logo_insta.png');
+    background-image: url('logo_insta.png');
 }
 
 #instagram:hover {
@@ -226,7 +226,7 @@ footer ul li a:hover {
 }
 
 #x {
-    background-image: url('../images/logos-tw.png');
+    background-image: url('logos-tw.png');
 }
 
 #x:hover {
@@ -234,7 +234,7 @@ footer ul li a:hover {
 }
 
 #facebook {
-    background-image: url('../images/logo_facebook.png');
+    background-image: url('logo_facebook.png');
 }
 
 #facebook:hover {
