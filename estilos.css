@@ -27,7 +27,6 @@ body{
     margin-bottom: 1.5rem;
 }
 
-
 /* Imagotipo y barra de navegacion*/
 
 header{
@@ -143,7 +142,11 @@ main{
     color: rgb(255, 78, 0); 
 }
 
-
+#descarga h2 {
+    text-align: left;
+    margin-top: 0;
+    color: rgb(255, 78, 0); 
+}
 /* Footer */
 footer {
     color: rgb(255, 78, 0);
@@ -184,11 +187,6 @@ footer ul li {
     margin-bottom: 10px;
 }
 
-footer ul li a {
-    text-decoration: none;
-    color: rgb(103, 68, 221);
-}
-
 footer ul li a:hover {
     color: #007bff;
 }
@@ -203,8 +201,8 @@ footer ul li a:hover {
 
 #redes li {
     display: inline-block;
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     margin: 0 25px; 
     list-style: none;
 }
