@@ -40,7 +40,7 @@ header{
 #logo {
     width: 300px;
     height: 100px;
-    background: url(imagotipo.jpg) no-repeat center center;
+    background-image: url(imagotipo.jpg) no-repeat center center;
     font-size: 0; 
     margin-bottom: 0;
 }
